@@ -1,0 +1,33 @@
+There are total 16 supported mouse buttons
+Allegro5 initialized
+Game begin
+resized image: main-bg.jpg
+resized image: settings-bg1.png
+resized image: char-bg.jpg
+resized image: start-bg.jpg
+resized image: game_over2.jpg
+Change scene from 0 to 1
+Game initialized
+Game start event loop
+Mouse button 1 down at (383, 248)
+Mouse button 1 up at (383, 248)
+Mouse button 1 down at (381, 408)
+Mouse button 1 up at (381, 408)
+Mouse button 1 down at (768, 38)
+Change scene from 1 to 3
+stop audio (bgm)
+Mouse button 1 up at (768, 38)
+Mouse button 1 down at (426, 437)
+Change scene from 3 to 1
+stop audio (bgm)
+Mouse button 1 up at (426, 437)
+Mouse button 1 down at (758, 45)
+Change scene from 1 to 3
+stop audio (bgm)
+Mouse button 1 up at (758, 45)
+Mouse button 1 down at (431, 452)
+Change scene from 3 to 1
+stop audio (bgm)
+Mouse button 1 up at (431, 452)
+Window close button clicked
+Game end
